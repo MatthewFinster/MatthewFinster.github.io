@@ -6,7 +6,7 @@
   </a>
 </p>
 
-January 2026 flew by — and if I’m honest, moving cities knocked my routine around more than I expected.
+January 2026 flew by, and if I’m honest, moving cities knocked my routine around more than I expected.
 
 But I also know this pattern: if it’s not moving cities, it’s work, social plans, or “life” in general. The excuse changes, the outcome is the same. This year I’m not chasing PRs, I’m chasing **consistency**. Strong, fast, agile… regularly.
 
