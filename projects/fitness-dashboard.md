@@ -1,5 +1,11 @@
 # From iPhone tap to dashboard: a streak-based fitness tracker in Power BI
 
+<p align="center">
+  <a href="../assets/fitness_dashboard/fitness_dashboard.png">
+    <img src="../assets/fitness_dashboard/fitness_dashboard.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
+  </a>
+</p>
+
 January 2026 flew by — and if I’m honest, moving cities knocked my routine around more than I expected.
 
 But I also know this pattern: if it’s not moving cities, it’s work, social plans, or “life” in general. The excuse changes, the outcome is the same. This year I’m not chasing PRs, I’m chasing **consistency**. Strong, fast, agile… regularly.
