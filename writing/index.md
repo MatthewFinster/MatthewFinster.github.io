@@ -3,4 +3,4 @@
 # Writing
 
 - **From iPhone tap to dashboard:** a streak-based fitness tracker in Power BI  
-  [Read](/writing/fitness-dashboard.md)
+  [Read](/writing/fitness-dashboard)
