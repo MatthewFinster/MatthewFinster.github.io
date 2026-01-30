@@ -10,7 +10,7 @@ I build clear, decision-focused dashboards and data pipelines.
 ## Featured
 
 ### Fitness streak dashboard (Power BI)
-From iPhone tap to dashboard to track fitness goals.
+From iPhone tap to dashboard to track fitness goals.  
 **Write-up:** [Read the case study](/writing/fitness-dashboard.md)
 
 ### University projects (GitHub)
