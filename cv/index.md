@@ -2,8 +2,7 @@
 
 # CV
 
-- **Download CV:**  
-  [MatthewFinsterCV.pdf](../assets/CV)
+- **Download CV:**  Available upon request.
 
 - LinkedIn: https://www.linkedin.com/in/MatthewFinster/
 - GitHub: https://github.com/MatthewFinster
