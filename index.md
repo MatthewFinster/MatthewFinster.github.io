@@ -1,7 +1,7 @@
 [Home](/) · [Projects](/projects/) · [Writing](/writing/) · [CV](/cv/)
 
 # Matthew Finster
-**Master of Data Science | Data Analyst (Power BI/DAX, SQL, Python) | Data modelling & reporting**
+**Master of Data Science | Data Analyst**
 
 I build clear, decision-focused dashboards and data pipelines.
 
