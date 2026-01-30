@@ -3,7 +3,7 @@
 # Matthew Finster
 **Master of Data Science | Data Analyst**
 
-I build clear, decision-focused dashboards and data pipelines.
+I build data pipelines, models and clear, decision-focused dashboards.
 
 ---
 
