@@ -1,19 +1,24 @@
 [Home](/) · [Projects](/projects/) · [Writing](/writing/) · [CV](/cv/)
 
 # Matthew Finster
-**Data Analyst | Master of Data Science**
+**Master of Data Science | Data Analyst (Power BI/DAX, SQL, Python) | Data modelling & reporting**
 
 I build clear, decision-focused dashboards and data pipelines.
 
 ---
 
-## Projects
+## Featured
 
 ### Fitness streak dashboard (Power BI)
-**Case study:** [Read the write-up](projects/fitness-dashboard)
+From iPhone tap to dashboard to track fitness goals.
+**Write-up:** [Read the case study](/writing/fitness-dashboard.md)
+
+### University projects (GitHub)
+Capstone + analysis projects (code, notebooks, documentation).  
+**Projects page:** [View projects](/projects/)
 
 ---
 
 ## Links
-- GitHub: https://github.com/MatthewFinster
-- LinkedIn: linkedin.com/in/MatthewFinster
+- GitHub: https://github.com/MatthewFinster  
+- LinkedIn: https://linkedin.com/in/MatthewFinster
