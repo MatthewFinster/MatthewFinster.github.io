@@ -6,9 +6,9 @@
   </a>
 </p>
 
-January 2026 flew by and moving cities knocked my routine around more than I expected. But, if it’s not moving cities, it’s work, social plans, or life in general. The excuse changes, the outcome is the same. This year I’d like to make sure I consistently show up.
+December 2025 and January 2026 flew by: travel, Christmas, then moving cities. My routine took a hit, and I realised I'd like to show up a lot more consistently this year.
 
-So I borrowed a trick from something that _does_ keep me consistent: Duolingo. Duolingo users will do almost anything to protect a streak. I wanted that same “don’t break the chain” motivation for fitness.
+So I'm borrowing a trick from something that _does_ keep me consistent: Duolingo. Duolingo users will do almost anything to protect a streak. I wanted that same “don’t break the chain” motivation for fitness.
 
 <p align="center">
   <a href="../assets/fitness_dashboard/Duolingo_Sharing.PNG">
@@ -30,21 +30,21 @@ My fitness data was scattered:
 - strength sessions lived in iPhone notes  
 - climbing lived… mostly in memory  
 
-That made it hard to track progress in one place, especially around the  metric I care about above all else: consistency.
+That made it hard to track progress in one place, especially around the metric that matters most to me: consistency.
 
 I wanted four things:
-- **A streak tracker:** move every day, with most days prioritising lifting, climbing, or running
-- **Yearly targets for lifting**, so weights sessions stay engaging and I don’t keep the streak alive purely through other activities
-- **Low logging friction**, so the system is simple enough to use daily
+- **A streak tracker** (move daily)
+- **Yearly targets for lifting** (so the streak isn’t “Other” forever)
+- **Low logging friction** (fast enough to do every day)
 - **A framework that rewards consistency over intensity**
 
-For the weights piece, I set **rep-count targets** for squats, deadlifts, bench press, and pull-ups — not tied to hitting heavier numbers, but tied to simply showing up. The targets are rough by design (think: ~100 lifting days × ~30 reps per lift).
+For strength, I set **rep-count targets** for squat / bench / deadlift / pull-ups. Rough on purpose: think ~100 lifting days × ~30 reps.
 
 ---
 
 ## Action
 
-### 1) Minimal Google Form pinned on iPhone home screen (fast logging)
+### 1) One-tap logging from my iPhone (Google Form pinned to home screen)
 <p align="center">
   <a href="../assets/fitness_dashboard/iphoneButton.jpg">
     <img src="../assets/fitness_dashboard/iphoneButton.jpg" alt="iPhone shortcut" height="240">
@@ -56,7 +56,7 @@ For the weights piece, I set **rep-count targets** for squats, deadlifts, bench 
 </p>
 <p align="center"><small><em>Quick-entry logging: one tap from the home screen → date + activity (plus lightweight fields).</em></small></p>
 
-### 2) Responses land in Google Sheets
+### 2) Responses land in Google Sheets (simple data store)
 <p align="center">
   <a href="../assets/fitness_dashboard/google_sheet.png">
     <img src="../assets/fitness_dashboard/google_sheet.png" alt="Google Sheets responses" style="width:760px; max-width:100%; height:auto;">
@@ -64,21 +64,27 @@ For the weights piece, I set **rep-count targets** for squats, deadlifts, bench 
 </p>
 <p align="center"><small><em>Form responses captured in Google Sheets (simple “data store” for Power BI to ingest).</em></small></p>
 
-### 3) Dashboard: Power BI ingests the sheet to update the model and visuals
+### 3) Power BI ingests the sheet and calculates the streak + progress-to-goal
 <p align="center">
   <a href="../assets/fitness_dashboard/fitness_dashboard_v2.png">
     <img src="../assets/fitness_dashboard/fitness_dashboard_v2.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
   </a>
 </p>
-<p align="center"><small><em>Streak tracking, 2026 sessions, best run (≥ 5 km), and progress-to-goal tiles.</em></small></p>
+<p align="center"><small><em>Streak tracking, 2026 sessions, best runs (≥ 5 km), and progress-to-goal tiles.</em></small></p>
 
 I deliberately avoided ingesting Strava/Garmin data to keep the approach lightweight and low-maintenance.
+
+On the build side, the fun parts were:
+- modelling the activity log cleanly (one row per session/day)
+- a streak measure that updates based on consecutive qualifying days
+- progress-to-goal tiles for yearly rep targets
+- a “Best 2026 runs ≥5km” table driven by pace + distance
 
 ---
 
 ## Outcome
-It’s simple enough that I actually want to use it daily, and that’s the whole point. January wasn’t the consistent start I wanted (moving cities), which is exactly why the streak mechanic helps.
+It’s simple enough that I actually use it and that’s the win. January wasn’t the consistent start I wanted (moving cities), which is exactly why the streak mechanic helps.
 
 **Next target:** build toward a 365-day streak.
 
-Wish me luck.
+If you’re building habit dashboards too, I’d love to hear what metrics you track.
