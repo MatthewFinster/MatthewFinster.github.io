@@ -26,4 +26,4 @@ Extended and reviewed a meta-analysis with reproducible methods and clear docume
 ## Fitness streak dashboard (Power BI)
 Lightweight pipeline (Google Form to Google Sheets to Power BI) to track daily activity with streak logic and KPI tiles.  
 **Skills:** Power BI, DAX, data modelling, dashboard design  
-**Write-up:** [Read about it here](/writing/fitness-dashboard)
+**Write-up:** [Read about it here](/writing/fitness-streak-dashboard)
