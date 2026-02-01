@@ -6,11 +6,9 @@
   </a>
 </p>
 
-January 2026 flew by, and if I’m honest, moving cities knocked my routine around more than I expected.
+January 2026 flew by and moving cities knocked my routine around more than I expected. But, if it’s not moving cities, it’s work, social plans, or life in general. The excuse changes, the outcome is the same. This year I’d like to make sure I consistently show up.
 
-But I also know this pattern: if it’s not moving cities, it’s work, social plans, or “life” in general. The excuse changes, the outcome is the same. This year I’m not chasing PRs, I’m chasing **consistency**. Strong, fast, agile… regularly.
-
-So I borrowed a trick from something that *does* keep me consistent: Duolingo. Duolingo users will do almost anything to protect a streak. I wanted that same “don’t break the chain” motivation for fitness.
+So I borrowed a trick from something that _does_ keep me consistent: Duolingo. Duolingo users will do almost anything to protect a streak. I wanted that same “don’t break the chain” motivation for fitness.
 
 <p align="center">
   <a href="../assets/fitness_dashboard/Duolingo_Sharing.PNG">
@@ -19,7 +17,8 @@ So I borrowed a trick from something that *does* keep me consistent: Duolingo. D
 </p>
 <p align="center"><small><em>Inspiration: Duolingo’s streak mechanic for consistency.</em></small></p>
 
-The goal is simple: **do something every day**: run (≥ 5 km), climb, or lift.
+The goal is simple: do something every day while prioritising cardio, strength, and climbing.
+The streak continues with a qualifying run (≥ 5 km), climb, or lift, and deliberately includes “Other” activities (e.g. tennis) to keep the system sustainable.
 
 The question was: *can I build a streak I actually want to maintain, using a lightweight data pipeline and a dashboard I’ll check daily?*
 
@@ -31,12 +30,13 @@ My fitness data was scattered:
 - strength sessions lived in iPhone notes  
 - climbing lived… mostly in memory  
 
-That made it hard to track progress in one place, especially around the only metric I really care about right now: **consistency**.
+That made it hard to track progress in one place, especially around the  metric I care about above all else: consistency.
 
-I wanted three things:
-- **A streak tracker** (lift / run / climb every day)
-- A way to avoid “defaulting” to socially anchored activities (running/climbing) and to ensure I continue to **get under the bar** consistently
-- Minimal logging friction so I’d actually use it
+I wanted four things:
+- **A streak tracker:** move every day, with most days prioritising lifting, climbing, or running
+- **Yearly targets for lifting**, so weights sessions stay engaging and I don’t keep the streak alive purely through other activities
+- **Low logging friction**, so the system is simple enough to use daily
+- **A framework that rewards consistency over intensity**
 
 For the weights piece, I set **rep-count targets** for squats, deadlifts, bench press, and pull-ups — not tied to hitting heavier numbers, but tied to simply showing up. The targets are rough by design (think: ~100 lifting days × ~30 reps per lift).
 
@@ -50,8 +50,8 @@ For the weights piece, I set **rep-count targets** for squats, deadlifts, bench 
     <img src="../assets/fitness_dashboard/iphoneButton.jpg" alt="iPhone shortcut" height="240">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="../assets/fitness_dashboard/google_form.jpg">
-    <img src="../assets/fitness_dashboard/google_form.jpg" alt="Google Form" height="240">
+  <a href="../assets/fitness_dashboard/google_form_v2.jpg">
+    <img src="../assets/fitness_dashboard/google_form_v2.jpg" alt="Google Form" height="240">
   </a>
 </p>
 <p align="center"><small><em>Quick-entry logging: one tap from the home screen → date + activity (plus lightweight fields).</em></small></p>
