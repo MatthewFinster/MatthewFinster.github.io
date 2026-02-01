@@ -1,4 +1,4 @@
-# From iPhone tap to dashboard: a streak-based fitness tracker in Power BI
+# I Built a Duolingo-Style Fitness Streak in Power BI
 
 <p align="center">
   <a href="../assets/fitness_dashboard/fitness_dashboard_v2.png">
