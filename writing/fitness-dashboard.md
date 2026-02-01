@@ -6,10 +6,9 @@
   </a>
 </p>
 
-December 2025 and January 2026 flew by: travel, Christmas, then moving cities. My routine took a hit, and I realised I'd like to show up a lot more consistently this year.
+December 2025 and January 2026 flew by: travel, Christmas, then moving cities. My routine took a hit, and this year I'd like to show up more consistently.
 
-So I'm borrowing a trick from something that _does_ keep me consistent: Duolingo. Duolingo users will do almost anything to protect a streak. I wanted that same “don’t break the chain” motivation for fitness.
-
+So I borrowed a trick from something that does keep me consistent: Duolingo.
 <p align="center">
   <a href="../assets/fitness_dashboard/Duolingo_Sharing.PNG">
     <img src="../assets/fitness_dashboard/Duolingo_Sharing.PNG" alt="Duolingo streak inspiration" width="320">
@@ -17,8 +16,11 @@ So I'm borrowing a trick from something that _does_ keep me consistent: Duolingo
 </p>
 <p align="center"><small><em>Inspiration: Duolingo’s streak mechanic for consistency.</em></small></p>
 
-The goal is simple: do something every day while prioritising cardio, strength, and climbing.
-The streak continues with a qualifying run (≥ 5 km), climb, or lift, and deliberately includes “Other” activities (e.g. tennis) to keep the system sustainable.
+I wanted that same “don’t break the chain” motivation for fitness. The goal is simple: do something every day while prioritising cardio, strength, and climbing.
+
+A day counts if I log at least one session (Run ≥5 km / Climb / Weights). “Other” activities are allowed, but they’re treated as active recovery, not the default way to protect the streak.
+
+**Consistency > Intensity.**
 
 The question was: *can I build a streak I actually want to maintain, using a lightweight data pipeline and a dashboard I’ll check daily?*
 
@@ -83,8 +85,10 @@ On the build side, the fun parts were:
 ---
 
 ## Outcome
-It’s simple enough that I actually use it and that’s the win. January wasn’t the consistent start I wanted (moving cities), which is exactly why the streak mechanic helps.
+It’s simple enough that I actually use it - and that’s the win. January wasn’t the consistent start I wanted which is exactly why the streak mechanic helps.
 
 **Next target:** build toward a 365-day streak.
+
+I’ll likely update the dashboard to include percentage of days that are primary activities (run, lift, climb), so the streak reflects not just consistency, but quality.
 
 If you’re building habit dashboards too, I’d love to hear what metrics you track.
