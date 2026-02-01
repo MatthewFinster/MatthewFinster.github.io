@@ -1,8 +1,8 @@
 # From iPhone tap to dashboard: a streak-based fitness tracker in Power BI
 
 <p align="center">
-  <a href="../assets/fitness_dashboard/fitness_dashboard.png">
-    <img src="../assets/fitness_dashboard/fitness_dashboard.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
+  <a href="../assets/fitness_dashboard/fitness_dashboard_v2.png">
+    <img src="../assets/fitness_dashboard/fitness_dashboard_v2.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
   </a>
 </p>
 
@@ -66,8 +66,8 @@ For the weights piece, I set **rep-count targets** for squats, deadlifts, bench 
 
 ### 3) Dashboard: Power BI ingests the sheet to update the model and visuals
 <p align="center">
-  <a href="../assets/fitness_dashboard/fitness_dashboard.png">
-    <img src="../assets/fitness_dashboard/fitness_dashboard.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
+  <a href="../assets/fitness_dashboard/fitness_dashboard_v2.png">
+    <img src="../assets/fitness_dashboard/fitness_dashboard_v2.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
   </a>
 </p>
 <p align="center"><small><em>Streak tracking, 2026 sessions, best run (≥ 5 km), and progress-to-goal tiles.</em></small></p>
