@@ -11,7 +11,7 @@ I build data pipelines, models and clear, decision-focused dashboards.
 
 ### Fitness streak dashboard (Power BI)
 From iPhone tap to dashboard to track fitness goals.  
-**Write-up:** [Read the case study](/writing/fitness-dashboard.md)
+**Write-up:** [Read the case study](/writing/fitness-streak-dashboard.md)
 
 ### University projects (GitHub)
 Capstone + analysis projects (code, notebooks, documentation).  
