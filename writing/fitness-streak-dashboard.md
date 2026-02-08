@@ -1,8 +1,8 @@
 # I Built a Duolingo-Style Fitness Streak in Power BI
 
 <p align="center">
-  <a href="../assets/fitness_dashboard/fitness_dashboard_v2.png">
-    <img src="../assets/fitness_dashboard/fitness_dashboard_v2.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
+  <a href="../assets/fitness_dashboard/fitness_dashboard_v3.png">
+    <img src="../assets/fitness_dashboard/fitness_dashboard_v3.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
   </a>
 </p>
 
@@ -40,7 +40,7 @@ I wanted four things:
 - **Low logging friction** (fast enough to do every day)
 - **A framework that rewards consistency over intensity**
 
-For strength, I set **rep-count targets** for squat / bench / deadlift / pull-ups. Rough on purpose: think ~100 lifting days × ~30 reps.
+For strength, I set **rep-count targets** for squat / bench / deadlift / pull-ups.
 
 ---
 
@@ -68,8 +68,8 @@ For strength, I set **rep-count targets** for squat / bench / deadlift / pull-up
 
 ### 3) Power BI ingests the sheet and calculates the streak + progress-to-goal
 <p align="center">
-  <a href="../assets/fitness_dashboard/fitness_dashboard_v2.png">
-    <img src="../assets/fitness_dashboard/fitness_dashboard_v2.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
+  <a href="../assets/fitness_dashboard/fitness_dashboard_v3.png">
+    <img src="../assets/fitness_dashboard/fitness_dashboard_v3.png" alt="Fitness dashboard" style="width:980px; max-width:100%; height:auto;">
   </a>
 </p>
 <p align="center"><small><em>Streak tracking, 2026 sessions, best runs (≥ 5 km), and progress-to-goal tiles.</em></small></p>
